@@ -1,0 +1,882 @@
+[
+ {
+  "single": {
+   "migration": 0.5414952917927107,
+   "cytotoxicity": 1.1005847438536709,
+   "antimicrobial": 2.5351190285227143
+  },
+  "multi": {
+   "migration": 0.5470497952101055,
+   "cytotoxicity": 1.0835374615187179,
+   "antimicrobial": 2.6016837246757873
+  },
+  "gbr": {
+   "migration": 0.5919109966763416,
+   "cytotoxicity": 0.7079368373242588,
+   "antimicrobial": 2.7171821651417716
+  },
+  "n_test_rows": {
+   "migration": 333,
+   "cytotoxicity": 100,
+   "antimicrobial": 24
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1333,
+   "cytotoxicity": 427,
+   "antimicrobial": 139
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 998,
+    "cytotoxicity": 60,
+    "antimicrobial": 89
+   },
+   "multi": {
+    "migration": 999,
+    "cytotoxicity": 193,
+    "antimicrobial": 152
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.7202915672210266,
+   "cytotoxicity": 1.0338712624656758,
+   "antimicrobial": 3.5042512959455023
+  },
+  "multi": {
+   "migration": 0.7109019083502192,
+   "cytotoxicity": 1.0232500761958985,
+   "antimicrobial": 3.1583466230498796
+  },
+  "gbr": {
+   "migration": 0.9726016011672893,
+   "cytotoxicity": 0.7261927669287856,
+   "antimicrobial": 2.489750916219814
+  },
+  "n_test_rows": {
+   "migration": 275,
+   "cytotoxicity": 91,
+   "antimicrobial": 31
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1297,
+   "cytotoxicity": 443,
+   "antimicrobial": 135
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 255,
+    "cytotoxicity": 264,
+    "antimicrobial": 67
+   },
+   "multi": {
+    "migration": 300,
+    "cytotoxicity": 206,
+    "antimicrobial": 416
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.5779091220721905,
+   "cytotoxicity": 0.9768064804043038,
+   "antimicrobial": 2.9383014020381686
+  },
+  "multi": {
+   "migration": 0.5740626863799742,
+   "cytotoxicity": 1.0717103401359849,
+   "antimicrobial": 2.6450090962727564
+  },
+  "gbr": {
+   "migration": 0.6252941637870542,
+   "cytotoxicity": 0.692774067267759,
+   "antimicrobial": 4.587581777146622
+  },
+  "n_test_rows": {
+   "migration": 305,
+   "cytotoxicity": 91,
+   "antimicrobial": 26
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1267,
+   "cytotoxicity": 440,
+   "antimicrobial": 147
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 1000,
+    "cytotoxicity": 246,
+    "antimicrobial": 145
+   },
+   "multi": {
+    "migration": 921,
+    "cytotoxicity": 72,
+    "antimicrobial": 171
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.6961368752249254,
+   "cytotoxicity": 1.5334145353946578,
+   "antimicrobial": 2.165216185796588
+  },
+  "multi": {
+   "migration": 0.7328298947080503,
+   "cytotoxicity": 1.5646686391046305,
+   "antimicrobial": 1.5370746306374128
+  },
+  "gbr": {
+   "migration": 0.8482197760343314,
+   "cytotoxicity": 0.9410420981592088,
+   "antimicrobial": 2.088780460142687
+  },
+  "n_test_rows": {
+   "migration": 300,
+   "cytotoxicity": 80,
+   "antimicrobial": 32
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1161,
+   "cytotoxicity": 476,
+   "antimicrobial": 133
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 854,
+    "cytotoxicity": 52,
+    "antimicrobial": 381
+   },
+   "multi": {
+    "migration": 698,
+    "cytotoxicity": 54,
+    "antimicrobial": 568
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.5895363328439777,
+   "cytotoxicity": 1.3345914167557071,
+   "antimicrobial": 3.413376072637283
+  },
+  "multi": {
+   "migration": 0.60879488583003,
+   "cytotoxicity": 1.2442275557511353,
+   "antimicrobial": 3.01449829330433
+  },
+  "gbr": {
+   "migration": 0.6471732908270135,
+   "cytotoxicity": 0.6350429871040316,
+   "antimicrobial": 2.8251900996853587
+  },
+  "n_test_rows": {
+   "migration": 267,
+   "cytotoxicity": 106,
+   "antimicrobial": 23
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1233,
+   "cytotoxicity": 447,
+   "antimicrobial": 144
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 515,
+    "cytotoxicity": 254,
+    "antimicrobial": 59
+   },
+   "multi": {
+    "migration": 1000,
+    "cytotoxicity": 628,
+    "antimicrobial": 67
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.6087876990446068,
+   "cytotoxicity": 1.1662410012794535,
+   "antimicrobial": 2.964360537060721
+  },
+  "multi": {
+   "migration": 0.6110441294528401,
+   "cytotoxicity": 1.101627420904823,
+   "antimicrobial": 3.4032794663200336
+  },
+  "gbr": {
+   "migration": 0.6637961164042656,
+   "cytotoxicity": 0.7517680023154851,
+   "antimicrobial": 3.7366373319852615
+  },
+  "n_test_rows": {
+   "migration": 376,
+   "cytotoxicity": 101,
+   "antimicrobial": 27
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1232,
+   "cytotoxicity": 442,
+   "antimicrobial": 138
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 209,
+    "cytotoxicity": 134,
+    "antimicrobial": 531
+   },
+   "multi": {
+    "migration": 286,
+    "cytotoxicity": 125,
+    "antimicrobial": 776
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.7352141856579064,
+   "cytotoxicity": 1.0951193316680783,
+   "antimicrobial": 2.3308200952426508
+  },
+  "multi": {
+   "migration": 0.7279131169012164,
+   "cytotoxicity": 1.0503223947786484,
+   "antimicrobial": 3.136776960007065
+  },
+  "gbr": {
+   "migration": 0.7293196115804524,
+   "cytotoxicity": 0.7870415655115641,
+   "antimicrobial": 2.119248025174972
+  },
+  "n_test_rows": {
+   "migration": 278,
+   "cytotoxicity": 82,
+   "antimicrobial": 26
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1222,
+   "cytotoxicity": 451,
+   "antimicrobial": 143
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 998,
+    "cytotoxicity": 126,
+    "antimicrobial": 669
+   },
+   "multi": {
+    "migration": 991,
+    "cytotoxicity": 113,
+    "antimicrobial": 599
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.7624414854189882,
+   "cytotoxicity": 1.165243249032863,
+   "antimicrobial": 3.086562822854134
+  },
+  "multi": {
+   "migration": 0.8307139739506427,
+   "cytotoxicity": 1.124072158775967,
+   "antimicrobial": 2.6015136921747386
+  },
+  "gbr": {
+   "migration": 0.7587259963044497,
+   "cytotoxicity": 0.7090579503360946,
+   "antimicrobial": 2.337567572673778
+  },
+  "n_test_rows": {
+   "migration": 297,
+   "cytotoxicity": 92,
+   "antimicrobial": 33
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1273,
+   "cytotoxicity": 443,
+   "antimicrobial": 138
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 871,
+    "cytotoxicity": 313,
+    "antimicrobial": 94
+   },
+   "multi": {
+    "migration": 979,
+    "cytotoxicity": 558,
+    "antimicrobial": 156
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.6257942240482356,
+   "cytotoxicity": 0.9925212428113551,
+   "antimicrobial": 2.9233097836766806
+  },
+  "multi": {
+   "migration": 0.6578694918049023,
+   "cytotoxicity": 1.0186730188121667,
+   "antimicrobial": 3.3950947376150356
+  },
+  "gbr": {
+   "migration": 0.6784158952963791,
+   "cytotoxicity": 0.7433408009492896,
+   "antimicrobial": 2.770672932621735
+  },
+  "n_test_rows": {
+   "migration": 399,
+   "cytotoxicity": 87,
+   "antimicrobial": 26
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1148,
+   "cytotoxicity": 459,
+   "antimicrobial": 140
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 344,
+    "cytotoxicity": 125,
+    "antimicrobial": 164
+   },
+   "multi": {
+    "migration": 527,
+    "cytotoxicity": 59,
+    "antimicrobial": 322
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.5902128078604981,
+   "cytotoxicity": 1.202130715316586,
+   "antimicrobial": 3.310945836730216
+  },
+  "multi": {
+   "migration": 0.5455692489981653,
+   "cytotoxicity": 1.2438949026707158,
+   "antimicrobial": 2.882462105346684
+  },
+  "gbr": {
+   "migration": 0.7013316240194281,
+   "cytotoxicity": 0.7963455623361714,
+   "antimicrobial": 1.2840876176311378
+  },
+  "n_test_rows": {
+   "migration": 222,
+   "cytotoxicity": 84,
+   "antimicrobial": 23
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1270,
+   "cytotoxicity": 457,
+   "antimicrobial": 150
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 150,
+    "cytotoxicity": 147,
+    "antimicrobial": 74
+   },
+   "multi": {
+    "migration": 312,
+    "cytotoxicity": 197,
+    "antimicrobial": 86
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.46357304677686206,
+   "cytotoxicity": 1.1742163104142815,
+   "antimicrobial": 1.9347574418821711
+  },
+  "multi": {
+   "migration": 0.5278269903107736,
+   "cytotoxicity": 1.1475499312066824,
+   "antimicrobial": 2.167524751913443
+  },
+  "gbr": {
+   "migration": 1.1603452096123639,
+   "cytotoxicity": 1.013731799637986,
+   "antimicrobial": 1.1708632541105408
+  },
+  "n_test_rows": {
+   "migration": 153,
+   "cytotoxicity": 85,
+   "antimicrobial": 30
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1355,
+   "cytotoxicity": 463,
+   "antimicrobial": 144
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 229,
+    "cytotoxicity": 161,
+    "antimicrobial": 238
+   },
+   "multi": {
+    "migration": 434,
+    "cytotoxicity": 170,
+    "antimicrobial": 264
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.5895164304491615,
+   "cytotoxicity": 1.3169432827014584,
+   "antimicrobial": 2.9252461160463614
+  },
+  "multi": {
+   "migration": 0.8033698531885812,
+   "cytotoxicity": 1.3770180159191912,
+   "antimicrobial": 2.9066199039828184
+  },
+  "gbr": {
+   "migration": 0.5854031026762281,
+   "cytotoxicity": 0.8584343033617948,
+   "antimicrobial": 2.3910730296739247
+  },
+  "n_test_rows": {
+   "migration": 240,
+   "cytotoxicity": 94,
+   "antimicrobial": 34
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1456,
+   "cytotoxicity": 457,
+   "antimicrobial": 139
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 1000,
+    "cytotoxicity": 1000,
+    "antimicrobial": 999
+   },
+   "multi": {
+    "migration": 255,
+    "cytotoxicity": 1000,
+    "antimicrobial": 134
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.642238756315286,
+   "cytotoxicity": 1.3814573897225304,
+   "antimicrobial": 4.013811203556231
+  },
+  "multi": {
+   "migration": 0.6781448413689072,
+   "cytotoxicity": 1.3857598382523475,
+   "antimicrobial": 3.5257328685887193
+  },
+  "gbr": {
+   "migration": 0.6759686692905607,
+   "cytotoxicity": 1.0920545160421082,
+   "antimicrobial": 3.281070486271669
+  },
+  "n_test_rows": {
+   "migration": 351,
+   "cytotoxicity": 88,
+   "antimicrobial": 31
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1264,
+   "cytotoxicity": 452,
+   "antimicrobial": 142
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 334,
+    "cytotoxicity": 62,
+    "antimicrobial": 519
+   },
+   "multi": {
+    "migration": 535,
+    "cytotoxicity": 61,
+    "antimicrobial": 599
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.7577111959555328,
+   "cytotoxicity": 1.1069799017824418,
+   "antimicrobial": 0.7717081585670116
+  },
+  "multi": {
+   "migration": 0.795774581125779,
+   "cytotoxicity": 1.0886084891581684,
+   "antimicrobial": 1.60969803622731
+  },
+  "gbr": {
+   "migration": 0.7215454014004294,
+   "cytotoxicity": 0.8937412762631689,
+   "antimicrobial": 1.2095763204737677
+  },
+  "n_test_rows": {
+   "migration": 259,
+   "cytotoxicity": 104,
+   "antimicrobial": 31
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1272,
+   "cytotoxicity": 437,
+   "antimicrobial": 142
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 915,
+    "cytotoxicity": 48,
+    "antimicrobial": 114
+   },
+   "multi": {
+    "migration": 1000,
+    "cytotoxicity": 61,
+    "antimicrobial": 999
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.5845510706166934,
+   "cytotoxicity": 1.0612724140939716,
+   "antimicrobial": 2.6633964825223777
+  },
+  "multi": {
+   "migration": 0.5912506067474449,
+   "cytotoxicity": 1.0987863681055026,
+   "antimicrobial": 2.295316159263033
+  },
+  "gbr": {
+   "migration": 0.7430190566169245,
+   "cytotoxicity": 0.7394303278159118,
+   "antimicrobial": 2.0857742685393967
+  },
+  "n_test_rows": {
+   "migration": 278,
+   "cytotoxicity": 102,
+   "antimicrobial": 26
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1200,
+   "cytotoxicity": 444,
+   "antimicrobial": 143
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 543,
+    "cytotoxicity": 74,
+    "antimicrobial": 1000
+   },
+   "multi": {
+    "migration": 999,
+    "cytotoxicity": 139,
+    "antimicrobial": 992
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.7222613427322208,
+   "cytotoxicity": 0.9229985023952642,
+   "antimicrobial": 2.1337908845123135
+  },
+  "multi": {
+   "migration": 0.7392818110163635,
+   "cytotoxicity": 1.0519489432606441,
+   "antimicrobial": 2.333107286096129
+  },
+  "gbr": {
+   "migration": 0.7429857136187442,
+   "cytotoxicity": 0.8033801983946336,
+   "antimicrobial": 2.2285712014994967
+  },
+  "n_test_rows": {
+   "migration": 191,
+   "cytotoxicity": 92,
+   "antimicrobial": 27
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1410,
+   "cytotoxicity": 461,
+   "antimicrobial": 146
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 998,
+    "cytotoxicity": 293,
+    "antimicrobial": 995
+   },
+   "multi": {
+    "migration": 996,
+    "cytotoxicity": 44,
+    "antimicrobial": 1000
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.6748680366702104,
+   "cytotoxicity": 1.0486369055607498,
+   "antimicrobial": 3.149231353045927
+  },
+  "multi": {
+   "migration": 0.6532923867714103,
+   "cytotoxicity": 1.054533574201612,
+   "antimicrobial": 2.997348562886867
+  },
+  "gbr": {
+   "migration": 0.6660897947163698,
+   "cytotoxicity": 0.8155769557303241,
+   "antimicrobial": 2.9951090282157775
+  },
+  "n_test_rows": {
+   "migration": 388,
+   "cytotoxicity": 94,
+   "antimicrobial": 32
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1205,
+   "cytotoxicity": 453,
+   "antimicrobial": 129
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 990,
+    "cytotoxicity": 73,
+    "antimicrobial": 422
+   },
+   "multi": {
+    "migration": 988,
+    "cytotoxicity": 76,
+    "antimicrobial": 386
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.5529445212239805,
+   "cytotoxicity": 1.2113894362069904,
+   "antimicrobial": 1.7945600813635219
+  },
+  "multi": {
+   "migration": 0.5607901953423352,
+   "cytotoxicity": 1.2121865583727875,
+   "antimicrobial": 2.2782737094097194
+  },
+  "gbr": {
+   "migration": 0.5766802961854257,
+   "cytotoxicity": 0.8812597535801721,
+   "antimicrobial": 1.6560050050603305
+  },
+  "n_test_rows": {
+   "migration": 254,
+   "cytotoxicity": 84,
+   "antimicrobial": 34
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1295,
+   "cytotoxicity": 460,
+   "antimicrobial": 136
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 895,
+    "cytotoxicity": 163,
+    "antimicrobial": 280
+   },
+   "multi": {
+    "migration": 736,
+    "cytotoxicity": 74,
+    "antimicrobial": 102
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.5497856701174212,
+   "cytotoxicity": 1.1225530659967293,
+   "antimicrobial": 4.381581919395726
+  },
+  "multi": {
+   "migration": 0.569777241174815,
+   "cytotoxicity": 1.092981958771108,
+   "antimicrobial": 4.161699481771427
+  },
+  "gbr": {
+   "migration": 0.7087318497721969,
+   "cytotoxicity": 0.8193230164171087,
+   "antimicrobial": 2.190810525293619
+  },
+  "n_test_rows": {
+   "migration": 227,
+   "cytotoxicity": 97,
+   "antimicrobial": 29
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1306,
+   "cytotoxicity": 437,
+   "antimicrobial": 141
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 998,
+    "cytotoxicity": 82,
+    "antimicrobial": 61
+   },
+   "multi": {
+    "migration": 994,
+    "cytotoxicity": 90,
+    "antimicrobial": 74
+   }
+  }
+ },
+ {
+  "single": {
+   "migration": 0.7773408148568112,
+   "cytotoxicity": 1.03663490601643,
+   "antimicrobial": 2.4081912694312058
+  },
+  "multi": {
+   "migration": 0.7973285361777073,
+   "cytotoxicity": 1.0532547827899816,
+   "antimicrobial": 2.169462364153884
+  },
+  "gbr": {
+   "migration": 0.900106265021279,
+   "cytotoxicity": 0.826647783801542,
+   "antimicrobial": 2.1752458106836565
+  },
+  "n_test_rows": {
+   "migration": 387,
+   "cytotoxicity": 89,
+   "antimicrobial": 35
+  },
+  "n_test_groups": {
+   "migration": 28,
+   "cytotoxicity": 58,
+   "antimicrobial": 18
+  },
+  "n_train_rows": {
+   "migration": 1095,
+   "cytotoxicity": 468,
+   "antimicrobial": 136
+  },
+  "best_epoch": {
+   "single": {
+    "migration": 992,
+    "cytotoxicity": 528,
+    "antimicrobial": 134
+   },
+   "multi": {
+    "migration": 395,
+    "cytotoxicity": 105,
+    "antimicrobial": 165
+   }
+  }
+ }
+]

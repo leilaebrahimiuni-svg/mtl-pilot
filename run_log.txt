@@ -1,0 +1,22 @@
+{'migration': ((1847, 22), 186), 'cytotoxicity': ((637, 369), 387), 'antimicrobial': ((199, 21), 122)}
+gradcheck max abs diff: 1.1257959668664608e-10
+0 {'migration': (0.541, 0.547), 'cytotoxicity': (1.101, 1.084), 'antimicrobial': (2.535, 2.602)}
+1 {'migration': (0.72, 0.711), 'cytotoxicity': (1.034, 1.023), 'antimicrobial': (3.504, 3.158)}
+2 {'migration': (0.578, 0.574), 'cytotoxicity': (0.977, 1.072), 'antimicrobial': (2.938, 2.645)}
+3 {'migration': (0.696, 0.733), 'cytotoxicity': (1.533, 1.565), 'antimicrobial': (2.165, 1.537)}
+4 {'migration': (0.59, 0.609), 'cytotoxicity': (1.335, 1.244), 'antimicrobial': (3.413, 3.014)}
+5 {'migration': (0.609, 0.611), 'cytotoxicity': (1.166, 1.102), 'antimicrobial': (2.964, 3.403)}
+6 {'migration': (0.735, 0.728), 'cytotoxicity': (1.095, 1.05), 'antimicrobial': (2.331, 3.137)}
+7 {'migration': (0.762, 0.831), 'cytotoxicity': (1.165, 1.124), 'antimicrobial': (3.087, 2.602)}
+8 {'migration': (0.626, 0.658), 'cytotoxicity': (0.993, 1.019), 'antimicrobial': (2.923, 3.395)}
+9 {'migration': (0.59, 0.546), 'cytotoxicity': (1.202, 1.244), 'antimicrobial': (3.311, 2.882)}
+10 {'migration': (0.464, 0.528), 'cytotoxicity': (1.174, 1.148), 'antimicrobial': (1.935, 2.168)}
+11 {'migration': (0.59, 0.803), 'cytotoxicity': (1.317, 1.377), 'antimicrobial': (2.925, 2.907)}
+12 {'migration': (0.642, 0.678), 'cytotoxicity': (1.381, 1.386), 'antimicrobial': (4.014, 3.526)}
+13 {'migration': (0.758, 0.796), 'cytotoxicity': (1.107, 1.089), 'antimicrobial': (0.772, 1.61)}
+14 {'migration': (0.585, 0.591), 'cytotoxicity': (1.061, 1.099), 'antimicrobial': (2.663, 2.295)}
+15 {'migration': (0.722, 0.739), 'cytotoxicity': (0.923, 1.052), 'antimicrobial': (2.134, 2.333)}
+16 {'migration': (0.675, 0.653), 'cytotoxicity': (1.049, 1.055), 'antimicrobial': (3.149, 2.997)}
+17 {'migration': (0.553, 0.561), 'cytotoxicity': (1.211, 1.212), 'antimicrobial': (1.795, 2.278)}
+18 {'migration': (0.55, 0.57), 'cytotoxicity': (1.123, 1.093), 'antimicrobial': (4.382, 4.162)}
+19 {'migration': (0.777, 0.797), 'cytotoxicity': (1.037, 1.053), 'antimicrobial': (2.408, 2.169)}
